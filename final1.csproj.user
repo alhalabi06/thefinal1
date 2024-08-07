@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBloodType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCountry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCurrency.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmEmergencyContact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmInsurence.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPrice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmReceipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTestGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTestType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmUnits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MDIBlood.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
